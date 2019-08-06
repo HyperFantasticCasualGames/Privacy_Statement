@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-Effective date: July 6th, 2019
+Effective date: July 29th, 2019
 
 We know you care about how your personal information is used and shared, and we take your privacy seriously. 
 Please read the following to learn more about our Privacy Policy. By using or accessing the Services in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.
@@ -9,11 +9,11 @@ Please read the following to learn more about our Privacy Policy. By using or ac
 ### 1. What does this Privacy Policy cover?
 This Privacy Policy covers our treatment of personally identifiable information (“Personal Information”) that we gather when you are accessing or using our Services, but not the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below, and we use this Personal Information internally in connection with our Services, including to personalize, provide, and improve our Services, and to analyze how you use the Services.In certain cases, we may also share some Personal Information with third parties, but only as described below.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 (or if you are in the EU, we do not knowingly collect or solicit personal information from anyone under the age of 16). If you are under 13 (or under 16 in the EU), please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13 (or under age 16 in the EU), we will delete that information as quickly as possible. If you believe that a child under 13 (or under 16 in the EU) may have provided us personal information, please contact us at martinluthersu@gmail.com.
+We do not knowingly collect or solicit personal information from anyone under the age of 13 (or if you are in the EU, we do not knowingly collect or solicit personal information from anyone under the age of 16). If you are under 13 (or under 16 in the EU), please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13 (or under age 16 in the EU), we will delete that information as quickly as possible. If you believe that a child under 13 (or under 16 in the EU) may have provided us personal information, please contact us at kicscasualgames@gmail.com.
 
 ### 2. What information does we collect?
 Information You Provide to Us:
-We receive and store any information you knowingly provide to us. For example, if you email us at martinluthersu@gmail.com, we may collect Personal Information that you provide to us in connection with such email communication (such as email address and name). Note, however, that while we will receive your email address if you email us at martinluthersu@gmail.com, you do not need to provide your first or last name or any other Personal Information when you contact us, and we will not store your Personal Information for longer than required to address your issues or concerns.
+We receive and store any information you knowingly provide to us. For example, if you email us at kicscasualgames@gmail.com, we may collect Personal Information that you provide to us in connection with such email communication (such as email address and name). Note, however, that while we will receive your email address if you email us at kicscasualgames@gmail.com, you do not need to provide your first or last name or any other Personal Information when you contact us, and we will not store your Personal Information for longer than required to address your issues or concerns.
 
 We may also collect Personal Information that you choose to provide through any voluntary surveys that we may send through the App about your experience with our Services, including gender and age. Providing your email address to us through these surveys is optional. We use information from these surveys to improve your experience with the App.
 
@@ -42,7 +42,7 @@ Your Personal Information will be stored and processed in the EU and in the Unit
 
 
 ### 4. What if I have questions, concerns or complaints?
-If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to martinluthersu@gmail.com. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy using the Services, please send us a detailed message to kicscasualgames@gmail.com. We will make every effort to resolve your concerns.
 
 ### 5. Will we share any of the Personal Information it receives?
 We may share your Personal Information with third parties as described below:
@@ -68,9 +68,9 @@ A fundamental principle of data protection and security at us is to store only t
 In order to protect your Personal Information, we have implemented measures designed to secure your Personal Information from accidental loss and from unauthorized access, use, alteration and disclosure. All Personal Information you provide to us is stored on our secure servers behind firewalls. All transactions, regardless of their nature, are encrypted using industry standard SSL technology.
 
 ### 7. What Personal Information can I access?
-All individuals have the right to access the data we have about them. We will take reasonable steps to enable individuals, either directly or in connection with Partners, to correct, amend, or delete personal data that is demonstrated to be inaccurate. If you have any questions about viewing or updating the information we have on file about you, please contact us at martinluthersu@gmail.com.
+All individuals have the right to access the data we have about them. We will take reasonable steps to enable individuals, either directly or in connection with Partners, to correct, amend, or delete personal data that is demonstrated to be inaccurate. If you have any questions about viewing or updating the information we have on file about you, please contact us at kicscasualgames@gmail.com.
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to martinluthersu@gmail.com.
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to kicscasualgames@gmail.com.
 
 ### 8. What choices do I have?
 You can use many of the features of the Services without registering, thereby limiting the type of information that we collect.
@@ -80,7 +80,7 @@ You can always opt not to disclose information to us, but keep in mind some info
 If you delete the App, some information may remain in our records after your deletion. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally.
 
 ### 9. What if I have questions about this policy?
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to martinluthersu@gmail.com, and we will try to resolve your concerns.
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to kicscasualgames@gmail.com, and we will try to resolve your concerns.
 
 ### 10. Will we ever change this Privacy Policy?
 We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice in the App or Website and/or by some other means. Please note that you are responsible for reading all notices and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.
